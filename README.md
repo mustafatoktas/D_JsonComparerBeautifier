@@ -6,7 +6,7 @@
 
 **İçindekiler**
 
-  - [1. Proje Hakkında](#1-proje-hakkında)
+  - [1. Uygulama Hakkında](#1-uygulama-hakkında)
   - [2. Ekran Görüntüleri](#2-ekran-görüntüleri)
   - [3. Video](#3-video)
   - [4. Kullanılan Teknolojiler](#4-kullanılan-teknolojiler)
@@ -17,7 +17,7 @@
 ---
 
 
-## 1. Proje Hakkında
+## 1. Uygulama Hakkında
 
  - **Tür:** Windows Masaüstü Uygulaması
 
