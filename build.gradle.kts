@@ -6,7 +6,7 @@ plugins {
 }
 
 group = "com.mustafatoktas.jsoncomparerbeautifier"
-version = "1.0"
+version = "1.0.0"
 
 repositories {
     maven("https://maven.pkg.jetbrains.space/public/p/compose/dev")
@@ -30,7 +30,6 @@ compose.desktop {
             targetFormats(TargetFormat.Dmg, TargetFormat.Exe, TargetFormat.Deb)
             packageName = "JsonComparerBeautifier"
             packageVersion = "1.0.0"
-
         }
     }
 }

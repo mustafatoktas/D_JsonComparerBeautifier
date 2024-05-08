@@ -1,5 +1,9 @@
 # D - JSON Comparer & Beautifier
 
+<img src="./Readme Resources/JSON Comparer & Beautifier Logo.png" alt="Logo" width="80" heigh="80"/>
+
+<br>
+
 **İçindekiler**
 
   - [1. Proje Hakkında](#1-proje-hakkında)
@@ -7,9 +11,8 @@
   - [3. Video](#3-video)
   - [4. Kullanılan Teknolojiler](#4-kullanılan-teknolojiler)
   - [5. Uygulamayı Çalıştırma](#5-uygulamayı-çalıştırma)
-  - [6. Setup Dosyası](#6-setup-dosyası)
-  - [7. Lisans](#7-lisans)
-  - [8. İletişim](#8-i̇letişim)
+  - [6. Lisans](#6-lisans)
+  - [7. İletişim](#7-i̇letişim)
 
 ---
 
@@ -26,14 +29,14 @@ JSON 1 ve JSON 2 alanlarına girilen verilerin öncelikle formatı kontrol edili
 
 **Beautifier:**
 
-JSON 1 alanına girilen verinin öncelikle format kontrolü yapılır. Format uygunsa girilen veri alanları, alt alta yazdırılmak suretiyle daha okunabilir hale hetirilir.
+JSON 1 alanına girilen verinin öncelikle format kontrolü yapılır. Format uygunsa girilen veri alanları, alt alta yazdırılmak suretiyle daha okunabilir hale getirilir.
 
 
 ## 2. Ekran Görüntüleri
 
-|  ![Ekran Görüntüsü 1](./README%20RESOURCES/Ekran%20görüntüsü%201.jpg) | ![Ekran Görüntüsü 2](./README%20RESOURCES/Ekran%20görüntüsü%202.jpg) |
+|  ![Ekran Görüntüsü 1](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20görüntüsü%201.png) | ![Ekran Görüntüsü 2](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20görüntüsü%202.png) |
 | ------------- | ------------- |
-|  ![Ekran Görüntüsü 1](./README%20RESOURCES/Ekran%20görüntüsü%203.jpg) | |
+|  ![Ekran Görüntüsü 1](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20görüntüsü%203.png) | |
 
 ## 3. Video
 
@@ -52,24 +55,18 @@ JSON 1 alanına girilen verinin öncelikle format kontrolü yapılır. Format uy
   - `implementation("com.google.code.gson:gson:2.9.1")`
 
 
-
 ## 5. Uygulamayı Çalıştırma
 
-Uygulamayı indirmek, çalıştırmak veya kodları incelemek için git bash'de projenin indirilmek istendiği dosya yoluna gidilip `git clone https://github.com/mustafatoktas/D_JsonComparerBeautifier.git`
-komutu çalıştırılmalıdır.
+Uygulamanın proje dosyasını kendi bilgisayarınıza indirmek, kodları incelemek ve
+[lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) çerçevesinde geliştirme
+yapabilmek için [git](https://git-scm.com) yüklü bir bilgisayarda projeyi indirmek
+istediğiniz dosya yoluna gidip terminalde
+`git clone https://github.com/mustafatoktas/D_JsonComparerBeautifier.git`
+komutunu çalıştırabilirsiniz.
 
 
-## 6. Setup Dosyası
+## 6. Lisans
 
-[Setup.exe](./README%20RESOURCES/Setup.exe)
-
-|  Min OS | Target OS |
-| ------------- | ------------- |
-|  Windows 7 | Windows 11 |
-- **Paket Adı:** `com.mustafatoktas.jsoncomparerbeautifier`
-- **Versiyon:** `1.0.0`
-
-## 7. Lisans
     Copyright 2024 Mustafa TOKTAŞ
 
     Licensed under the GNU General Public License v3.0 (the "License");
@@ -85,9 +82,8 @@ komutu çalıştırılmalıdır.
     limitations under the License.
 
 
-## 8. İletişim
+## 7. İletişim
 
-- [info@mustafatoktas.com](mailto:info@mustafatoktas.com)
-- [LinkedIn](https://www.linkedin.com/in/mustafatoktas/)
-- [Telegram](https://t.me/mustafatoktas00)
-
+<a href="mailto:info@mustafatoktas.com" target="_blank"> <img src="./Readme Resources/İletişim/Mail.png" alt="Mail" width="64" heigh="64"/> </a>
+<a href="https://t.me/mustafatoktas00" target="_blank"> <img src="./Readme Resources/İletişim/Telegram.png" alt="Telegram" width="64" heigh="64"/> </a>
+<a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"> <img src="./Readme Resources/İletişim/LinkedIn.png" alt="LinkedIn" width="64" heigh="64"/> </a>
