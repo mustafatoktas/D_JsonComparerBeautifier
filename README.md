@@ -6,20 +6,20 @@
 
 **İçindekiler**
 
-  - [1. Uygulama Hakkında](#1-uygulama-hakkında)
-  - [2. Ekran Görüntüleri](#2-ekran-görüntüleri)
-  - [3. Video](#3-video)
-  - [4. Kullanılan Teknolojiler](#4-kullanılan-teknolojiler)
-  - [5. Uygulamayı Çalıştırma](#5-uygulamayı-çalıştırma)
-  - [6. Lisans](#6-lisans)
-  - [7. İletişim](#7-i̇letişim)
+- [1. Uygulama Hakkında](#1-uygulama-hakkında)
+- [2. Ekran Görüntüleri](#2-ekran-görüntüleri)
+- [3. Video](#3-video)
+- [4. Kullanılan Teknoloji ve Kütüphaneler](#4-kullanılan-teknoloji-ve-kütüphaneler)
+- [5. Uygulamayı Çalıştırma](#5-uygulamayı-çalıştırma)
+- [6. Lisans](#6-lisans)
+- [7. İletişim](#7-i̇letişim)
 
 ---
 
 
 ## 1. Uygulama Hakkında
 
- - **Tür:** Windows Masaüstü Uygulaması
+- **Tür:** Windows Masaüstü Uygulaması
 
 Bu Windows masaüstü uygulaması 2 farklı JSON tipinde veriyi karşılaştırma ve JSON tipinde verilen veriyi daha okunabilir hale getirme işlemlerini gerçekleştirmektedir.
 
@@ -40,19 +40,19 @@ JSON 1 alanına girilen verinin öncelikle format kontrolü yapılır. Format uy
 
 ## 3. Video
 
-[Proje Tanıtım Videosu](https://youtu.be/Dax1xayBxjw)
+[Uygulama Tanıtım Videosu](https://youtu.be/Dax1xayBxjw)
 
-## 4. Kullanılan Teknolojiler & Kütüphaneler
+## 4. Kullanılan Teknoloji ve Kütüphaneler
 
-  - `MVVM + Clean Architecture`
-  - `Jetpack Compose`
-  - `Kotlin Coroutines`
-  - `Flow`
-  - `Gson`
-  - `implementation("org.skyscreamer:jsonassert:1.5.1")`
-  - `implementation("no.tornado:tornadofx:1.7.20")`
-  - `implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0")`
-  - `implementation("com.google.code.gson:gson:2.9.1")`
+- `MVVM + Clean Architecture`
+- `Jetpack Compose`
+- `Kotlin Coroutines`
+- `Flow`
+- `Gson`
+- `implementation("org.skyscreamer:jsonassert:1.5.1")`
+- `implementation("no.tornado:tornadofx:1.7.20")`
+- `implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0")`
+- `implementation("com.google.code.gson:gson:2.9.1")`
 
 
 ## 5. Uygulamayı Çalıştırma
