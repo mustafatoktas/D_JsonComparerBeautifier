@@ -1,23 +1,23 @@
-# D - JSON Comparer & Beautifier
+<h1 align="center">JSON Comparer & Beautifier</h1>
 
-<img src="./Readme Resources/JSON Comparer & Beautifier Logo.png" alt="Logo" width="80" heigh="80"/>
-
-<br>
+<div align=center>
+  <img src="./Readme%20Resources/JSON Comparer & Beautifier Logo.png" alt="Logo" width="120" heigh="120"/>
+</div>
 
 **İçindekiler**
 
-- [1. Uygulama Hakkında](#1-uygulama-hakkında)
-- [2. Ekran Görüntüleri](#2-ekran-görüntüleri)
-- [3. Video](#3-video)
-- [4. Kullanılan Teknoloji ve Kütüphaneler](#4-kullanılan-teknoloji-ve-kütüphaneler)
-- [5. Uygulamayı Çalıştırma](#5-uygulamayı-çalıştırma)
-- [6. Lisans](#6-lisans)
-- [7. İletişim](#7-i̇letişim)
+- [Uygulama Hakkında](#uygulama-hakkında)
+- [Ekran Görüntüleri](#ekran-görüntüleri)
+- [Video](#video)
+- [Kullanılan Teknoloji ve Kütüphaneler](#kullanılan-teknoloji-ve-kütüphaneler)
+- [Uygulamayı Çalıştırma](#uygulamayı-çalıştırma)
+- [Lisans](#lisans)
+- [İletişim](#i̇letişim)
 
----
+<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
 
 
-## 1. Uygulama Hakkında
+## Uygulama Hakkında
 
 - **Tür:** Windows Masaüstü Uygulaması
 
@@ -31,18 +31,26 @@ JSON 1 ve JSON 2 alanlarına girilen verilerin öncelikle formatı kontrol edili
 
 JSON 1 alanına girilen verinin öncelikle format kontrolü yapılır. Format uygunsa girilen veri alanları, alt alta yazdırılmak suretiyle daha okunabilir hale getirilir.
 
+<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
 
-## 2. Ekran Görüntüleri
 
-|  ![Ekran Görüntüsü 1](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20görüntüsü%201.png) | ![Ekran Görüntüsü 2](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20görüntüsü%202.png) |
-| ------------- | ------------- |
-|  ![Ekran Görüntüsü 1](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20görüntüsü%203.png) | |
+## Ekran Görüntüleri
 
-## 3. Video
+| ![Ekran Görüntüsü 1](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20görüntüsü%201.png) | ![Ekran Görüntüsü 2](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20görüntüsü%202.png) |
+|     ------------------------------------------------------------------------------       |     ------------------------------------------------------------------------------       |
+| ![Ekran Görüntüsü 3](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20görüntüsü%203.png) |                                                                                          |
+
+<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
+
+
+## Video
 
 [Uygulama Tanıtım Videosu](https://youtu.be/Dax1xayBxjw)
 
-## 4. Kullanılan Teknoloji ve Kütüphaneler
+<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
+
+
+## Kullanılan Teknoloji ve Kütüphaneler
 
 - `MVVM + Clean Architecture`
 - `Jetpack Compose`
@@ -54,18 +62,22 @@ JSON 1 alanına girilen verinin öncelikle format kontrolü yapılır. Format uy
 - `implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0")`
 - `implementation("com.google.code.gson:gson:2.9.1")`
 
+<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
 
-## 5. Uygulamayı Çalıştırma
+
+## Uygulamayı Çalıştırma
 
 Uygulamanın proje dosyasını kendi bilgisayarınıza indirmek, kodları incelemek ve
-[lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) çerçevesinde geliştirme
+[lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) kapsamında geliştirme
 yapabilmek için [git](https://git-scm.com) yüklü bir bilgisayarda projeyi indirmek
 istediğiniz dosya yoluna gidip terminalde
 `git clone https://github.com/mustafatoktas/D_JsonComparerBeautifier.git`
 komutunu çalıştırabilirsiniz.
 
+<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
 
-## 6. Lisans
+
+## Lisans
 
     Copyright 2024 Mustafa TOKTAŞ
 
@@ -81,8 +93,10 @@ komutunu çalıştırabilirsiniz.
     See the License for the specific language governing permissions and
     limitations under the License.
 
+<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
 
-## 7. İletişim
+
+## İletişim
 
 <a href="mailto:info@mustafatoktas.com" target="_blank"> <img src="./Readme Resources/İletişim/Mail.png" alt="Mail" width="64" heigh="64"/> </a>
 <a href="https://t.me/mustafatoktas00" target="_blank"> <img src="./Readme Resources/İletişim/Telegram.png" alt="Telegram" width="64" heigh="64"/> </a>
