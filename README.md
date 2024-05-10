@@ -14,24 +14,28 @@
 - [Lisans](#lisans)
 - [İletişim](#i̇letişim)
 
-<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 
 ## Uygulama Hakkında
 
 - **Tür:** Windows Masaüstü Uygulaması
 
-Bu Windows masaüstü uygulaması 2 farklı JSON tipinde veriyi karşılaştırma ve JSON tipinde verilen veriyi daha okunabilir hale getirme işlemlerini gerçekleştirmektedir.
+Bu Windows masaüstü uygulaması 2 farklı JSON tipinde veriyi karşılaştırma ve JSON tipinde verilen
+veriyi daha okunabilir hale getirme işlemlerini gerçekleştirmektedir.
 
 **Comparer:**
 
-JSON 1 ve JSON 2 alanlarına girilen verilerin öncelikle formatı kontrol edilir. Veriler JSON formatına uygun değilse uyarı verilir. JSON formatına uygunsa karşılaştırma işlemi gerçekleştirilir ve sonuç kullanıcıya gösterilir.
+JSON 1 ve JSON 2 alanlarına girilen verilerin öncelikle formatı kontrol edilir. Veriler JSON formatına
+uygun değilse uyarı verilir. JSON formatına uygunsa karşılaştırma işlemi gerçekleştirilir ve sonuç
+kullanıcıya gösterilir.
 
 **Beautifier:**
 
-JSON 1 alanına girilen verinin öncelikle format kontrolü yapılır. Format uygunsa girilen veri alanları, alt alta yazdırılmak suretiyle daha okunabilir hale getirilir.
+JSON 1 alanına girilen verinin öncelikle format kontrolü yapılır. Format uygunsa girilen veri alanları,
+alt alta yazdırılmak suretiyle daha okunabilir hale getirilir.
 
-<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 
 ## Ekran Görüntüleri
@@ -40,14 +44,14 @@ JSON 1 alanına girilen verinin öncelikle format kontrolü yapılır. Format uy
 |     ------------------------------------------------------------------------------       |     ------------------------------------------------------------------------------       |
 | ![Ekran Görüntüsü 3](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20görüntüsü%203.png) |                                                                                          |
 
-<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 
 ## Video
 
 [Uygulama Tanıtım Videosu](https://youtu.be/Dax1xayBxjw)
 
-<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 
 ## Kullanılan Teknoloji ve Kütüphaneler
@@ -62,7 +66,7 @@ JSON 1 alanına girilen verinin öncelikle format kontrolü yapılır. Format uy
 - `implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0")`
 - `implementation("com.google.code.gson:gson:2.9.1")`
 
-<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 
 ## Uygulamayı Çalıştırma
@@ -74,7 +78,7 @@ istediğiniz dosya yoluna gidip terminalde
 `git clone https://github.com/mustafatoktas/D_JsonComparerBeautifier.git`
 komutunu çalıştırabilirsiniz.
 
-<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 
 ## Lisans
@@ -93,11 +97,11 @@ komutunu çalıştırabilirsiniz.
     See the License for the specific language governing permissions and
     limitations under the License.
 
-<img src="./Readme%20Resources/Çizgi.png" alt="-----------------------------------------------------"/>
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 
 ## İletişim
 
-<a href="mailto:info@mustafatoktas.com" target="_blank"> <img src="./Readme Resources/İletişim/Mail.png" alt="Mail" width="64" heigh="64"/> </a>
-<a href="https://t.me/mustafatoktas00" target="_blank"> <img src="./Readme Resources/İletişim/Telegram.png" alt="Telegram" width="64" heigh="64"/> </a>
+<a href="mailto:info@mustafatoktas.com"              target="_blank"> <img src="./Readme Resources/İletişim/Mail.png"     alt="Mail"     width="64" heigh="64"/> </a>
+<a href="https://t.me/mustafatoktas00"               target="_blank"> <img src="./Readme Resources/İletişim/Telegram.png" alt="Telegram" width="64" heigh="64"/> </a>
 <a href="https://www.linkedin.com/in/mustafatoktas/" target="_blank"> <img src="./Readme Resources/İletişim/LinkedIn.png" alt="LinkedIn" width="64" heigh="64"/> </a>
