@@ -14,8 +14,8 @@
 - [Lisans](#lisans)
 - [İletişim](#i̇letişim)
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## Uygulama Hakkında
 
@@ -40,19 +40,23 @@ alt alta yazdırılmak suretiyle daha okunabilir hale getirilir.
 
 ## Ekran Görüntüleri
 
+Ekran görüntüleri uygulamanın v1.0.0 sürümünden alınmıştır. Yeni sürümlerde arayüz tamamen yada kısmi olarak değiştirilmiş olabilir.
+
 | ![Ekran Görüntüsü 1](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20görüntüsü%201.png) | ![Ekran Görüntüsü 2](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20görüntüsü%202.png) |
-|     ------------------------------------------------------------------------------       |     ------------------------------------------------------------------------------       |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | ![Ekran Görüntüsü 3](./Readme%20Resources/Ekran%20Görüntüleri/Ekran%20görüntüsü%203.png) |                                                                                          |
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## Video
 
+<img align="left" src="./Readme Resources/Video/YouTube.png" alt="Youtube" width="30"/>
+
 [Uygulama Tanıtım Videosu](https://youtu.be/Dax1xayBxjw)
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## Kullanılan Teknoloji ve Kütüphaneler
 
@@ -66,20 +70,23 @@ alt alta yazdırılmak suretiyle daha okunabilir hale getirilir.
 - `implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0")`
 - `implementation("com.google.code.gson:gson:2.9.1")`
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## Uygulamayı Çalıştırma
 
-Uygulamanın proje dosyasını kendi bilgisayarınıza indirmek, kodları incelemek ve
-[lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) kapsamında geliştirme
-yapabilmek için [git](https://git-scm.com) yüklü bir bilgisayarda projeyi indirmek
-istediğiniz dosya yoluna gidip terminalde
-`git clone https://github.com/mustafatoktas/D_JsonComparerBeautifier.git`
-komutunu çalıştırabilirsiniz.
+- Uygulamanın proje dosyasını kendi bilgisayarınıza indirmek, kodları incelemek ve
+  [lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html) kapsamında geliştirme
+  yapabilmek için [git](https://git-scm.com) yüklü bir bilgisayarda projeyi indirmek
+  istediğiniz dosya yoluna gidip terminalde
+  `git clone https://github.com/mustafatoktas/D_JsonComparerBeautifier.git`
+  komutunu çalıştırabilirsiniz.
+
+- [Releases](https://github.com/mustafatoktas/D_JsonComparerBeautifier/releases) sayfasına gidip
+  uygulamanın en güncel sürümünü indirebilirsiniz.
+
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
-
 
 ## Lisans
 
@@ -97,8 +104,8 @@ komutunu çalıştırabilirsiniz.
     See the License for the specific language governing permissions and
     limitations under the License.
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## İletişim
 
