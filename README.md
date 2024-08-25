@@ -60,10 +60,9 @@ Ekran görüntüleri uygulamanın `v1.0.0` sürümünden alınmıştır. Yeni s�
 
 ## Video
 
-<div style="display: flex; align-items: center;">
-  <img src="./Readme Resources/Video/YouTube.png" alt="Youtube" width="30" style="margin-right: 10px;"/>
-  <a href="https://youtu.be/Dax1xayBxjw" target="_blank">Uygulama Tanıtım Videosu</a>
-</div>
+<img align="left" src="./Readme Resources/Video/YouTube.png" alt="Youtube" width="30"/>
+
+<a href="https://youtu.be/Dax1xayBxjw" target="_blank">Uygulama Tanıtım Videosu</a>
 
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
