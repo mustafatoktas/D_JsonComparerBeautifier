@@ -7,10 +7,10 @@ JSON Comparer & Beautifier<a name="readme-top"></a>
 </div>
 
 <div align="right">
-  Türkçe | <a href="./Other Readmes/en/Readme.en.md">English</a>
+Türkçe | <a href="./Other Readmes/Readme.en.md">English</a>
 </div>
 
-## **İçindekiler**
+## İçindekiler
 
 - [Uygulama Hakkında](#uygulama-hakkında)
 - [Ekran Görüntüleri](#ekran-görüntüleri)
@@ -23,17 +23,17 @@ JSON Comparer & Beautifier<a name="readme-top"></a>
 - [İletişim](#i̇letişim)
 
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Uygulama Hakkında
 
 <table>
   <tr>
-    <th style="font-weight: bold;">İşletim Sistemi</th>
+    <th>İşletim Sistemi</th>
     <td>Windows</td>
   </tr>
   <tr>
-    <th style="font-weight: bold;">Uygulama Türü</th>
+    <th>Uygulama Türü</th>
     <td>Masaüstü</td>
   </tr>
 </table>
@@ -54,18 +54,24 @@ kullanıcıya gösterilir.
 JSON 1 alanına girilen verinin öncelikle format kontrolü yapılır. Format uygunsa girilen veri alanları,
 alt alta yazdırılmak suretiyle daha okunabilir hale getirilir.
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Ekran Görüntüleri
 
 Ekran görüntüleri uygulamanın `v1.0.0` sürümünden alınmıştır. Yeni sürümlerde arayüz tamamen yada kısmi olarak değiştirilmiş olabilir.
 
-| ![Ekran Görüntüsü 1](./Readme%20Resources/Screenshots/Screenshot%201.png) | ![Ekran Görüntüsü 2](./Readme%20Resources/Screenshots/Screenshot%202.png) |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| ![Ekran Görüntüsü 3](./Readme%20Resources/Screenshots/Screenshot%203.png) |                                                                           |
+<details>
+  <summary>Görüntüler</summary>
+
+| ![Ekran Görüntüsü 1](./Readme%20Resources/Screenshots/1.png) | ![Ekran Görüntüsü 2](./Readme%20Resources/Screenshots/2.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Ekran Görüntüsü 3](./Readme%20Resources/Screenshots/3.png) |                                                              |
+
+</details>
 
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Video
 
@@ -74,22 +80,22 @@ Ekran görüntüleri uygulamanın `v1.0.0` sürümünden alınmıştır. Yeni s�
 </a>
 
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Kullanılan Mimari Yapı, Teknoloji ve Kütüphaneler
 
-- `MVVM + Clean Architecture`
-- `Jetpack Compose`
-- `Kotlin Coroutines`
-- `Flow`
-- `Gson`
-- `TornadoFX`
-- `JSONassert`
+- MVVM + Clean Architecture
+- Jetpack Compose
+- Kotlin Coroutines
+- Flow
+- Gson
+- TornadoFX
+- JSONassert
 
 [build.gradle.kts](./Project%20Source/build.gradle.kts)
 
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Test Edilen Sürümler
 
@@ -113,7 +119,7 @@ Ekran görüntüleri uygulamanın `v1.0.0` sürümünden alınmıştır. Yeni s�
 </table>
 
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Projenin Klonlanması ve Kodların İncelenmesi
 
@@ -124,18 +130,18 @@ git clone https://github.com/mustafatoktas/D_JsonComparerBeautifier.git
 ```
 
 Bu repoyu klonlayarak proje yapısını inceleyebilir, geliştirme yöntemlerini
-keşfedebilir ve [lisans hakları](https://www.gnu.org/licenses/gpl-3.0.html)
+keşfedebilir ve [GPL-3.0 lisansı](https://www.gnu.org/licenses/gpl-3.0.html)
 kapsamında [katkıda bulunabilirsiniz](#katkıda-bulunma).
 
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Katkıda Bulunma
 
 Projeye katkıda bulunmak isteyenler için katkı kuralları ve adımları [contributing sayfasında](./Contributing.md) açıklanmıştır.
 
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 <div align="center">
   <a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI"><img src="https://toktasoft.com/api/repo-visitor-counter?repo=59tfawdmhcs3e2n&show_repo_name=1&show_date=1&show_brand=0&txt_color=209,215,224&bg_color=45,52,58" alt="Repo Visitor Counter"/></a>
@@ -144,11 +150,11 @@ Projeye katkıda bulunmak isteyenler için katkı kuralları ve adımları [cont
 <br>
   
 <div align="center">
-  <a href="https://buymeacoffee.com/mustafatoktas"><img src="./Readme Resources/Communication/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/></a>
+  <a href="https://buymeacoffee.com/mustafatoktas"><img src="./Readme Resources/Contact/Buy Me a Coffee.png" alt="Buy Me a Coffee" height="64"/></a>
 </div>
 
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## Lisans
 
@@ -169,13 +175,13 @@ limitations under the License.
 ```
 
 
-![-----------------------------------------------------](./Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](./Readme%20Resources/Line.png)
 
 ## İletişim
 
-<a href="mailto:info@mustafatoktas.com"             ><img src="./Readme Resources/Communication/Mail.png"     alt="Mail"     width="64"/></a>
-<a href="https://t.me/mustafatoktas00"              ><img src="./Readme Resources/Communication/Telegram.png" alt="Telegram" width="64"/></a>
-<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="./Readme Resources/Communication/LinkedIn.png" alt="LinkedIn" width="64"/></a>
+<a href="mailto:info@mustafatoktas.com"             ><img src="./Readme Resources/Contact/Mail.png"     alt="Mail"     width="64"/></a>
+<a href="https://t.me/mustafatoktas00"              ><img src="./Readme Resources/Contact/Telegram.png" alt="Telegram" width="64"/></a>
+<a href="https://www.linkedin.com/in/mustafatoktas/"><img src="./Readme Resources/Contact/LinkedIn.png" alt="LinkedIn" width="64"/></a>
 
 <div align="center">
   <a href="#readme-top"><img src="./Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>

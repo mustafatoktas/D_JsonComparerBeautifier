@@ -4,7 +4,7 @@ Thank you for your interest in contributing to the project🥳
 This guide will help you understand how to contribute.
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../Readme%20Resources/Line.png)
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ Before contributing, please follow these steps:
 3. Create a new `branch` and make your changes there.
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../Readme%20Resources/Line.png)
 
 ## Contribution Process
 
@@ -26,7 +26,7 @@ Follow these steps to contribute:
 3. Create a well-explained `pull request` to share your updates.
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../Readme%20Resources/Line.png)
 
 ## Things to Keep in Mind
 
@@ -51,7 +51,7 @@ please consider the following:
   If your changes affect the documentation, make sure to update it accordingly.
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../Readme%20Resources/Line.png)
 
 ## Feedback
 
@@ -63,7 +63,7 @@ please consider the following:
 - When creating a `pull requests`, please provide clear and detailed explanations to help speed up the review process.
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../Readme%20Resources/Line.png)
 
 ## Contribution Ideas
 
@@ -74,7 +74,7 @@ Not sure where to start? Here are some ideas:
 - Optimizing performance
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../Readme%20Resources/Line.png)
 
 ## Issues and Pull Requests
 
@@ -82,7 +82,7 @@ Before contributing, check the [existing issues](https://github.com/mustafatokta
 [open pull requests](https://github.com/mustafatoktas/D_JsonComparerBeautifier/pulls). Someone might already be working on a similar topic.
 
 
-![-----------------------------------------------------](../../Readme%20Resources/Line.png)
+![—————————————————————————————————————————————————](../Readme%20Resources/Line.png)
 
 ## Thank You!
 
@@ -90,6 +90,6 @@ Thank you for your interest and contributions! Every contribution helps move the
 
 <br>
 
-<p align="center">
-  <a href="#contribution-guide"><img src="../../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
-</p>
+<div align="center">
+  <a href="#contribution-guide"><img src="../Readme Resources/Back to Top.png" alt="Back to Top" height="64"/></a>
+</div>
